@@ -1,2 +1,2 @@
 Meu inicio de estudo em HTML.
-Aqui estará toda minha evolução no aprendizado.
+Aqui estara toda minha evolução no aprendizado.
